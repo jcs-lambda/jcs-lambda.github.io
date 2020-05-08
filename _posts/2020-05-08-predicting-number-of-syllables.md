@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Predicting Number of Syllables
 date: '2020-02-10'
 ---
