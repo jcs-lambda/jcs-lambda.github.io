@@ -134,23 +134,23 @@ Although this classifier works just as well as sklearn's GaussianNB on a small, 
 (I tested on [sklearn's wine dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html#sklearn.datasets.load_wine)),
 it is not ready for use in a production environment. Dirty data, large data, and who knows what else will break this implementation.
 
-![Results vs sklearn's GaussianNB](https://github.com/jcs-lambda/jcs-lambda.github.io/raw/master/img/gnb_vs_nb.png)
+![Results vs sklearn's GaussianNB](https://raw.githubusercontent.com/jcs-lambda/jcs-lambda.github.io/master/img/gnb_vs_nb.png)
 
 ## Resources
 
 Naive Bayes Classification
-- https://en.wikipedia.org/wiki/Naive_Bayes_classifier
-- https://en.wikipedia.org/wiki/Bayes%27_theorem
-- https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
-- https://www.geeksforgeeks.org/naive-bayes-classifiers/
-- https://alexn.org/blog/2012/02/09/howto-build-naive-bayes-classifier.html
-- https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/
-- https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt
-- https://www.edureka.co/blog/naive-bayes-tutorial/
-- https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn
+- [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [https://en.wikipedia.org/wiki/Bayes%27_theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+- [https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+- [https://www.geeksforgeeks.org/naive-bayes-classifiers/](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+- [https://alexn.org/blog/2012/02/09/howto-build-naive-bayes-classifier.html](https://alexn.org/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
+- [https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/](https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/)
+- [https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt](https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt)
+- [https://www.edureka.co/blog/naive-bayes-tutorial/](https://www.edureka.co/blog/naive-bayes-tutorial/)
+- [https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
 
 SciKit-Learn
-- https://scikit-learn.org/stable/developers/develop.html
-- https://scikit-learn.org/stable/developers/utilities.html
-- https://scikit-learn.org/stable/modules/classes.html
-- https://scikit-learn.org/stable/modules/naive_bayes.html
+- [https://scikit-learn.org/stable/developers/develop.html](https://scikit-learn.org/stable/developers/develop.html)
+- [https://scikit-learn.org/stable/developers/utilities.html](https://scikit-learn.org/stable/developers/utilities.html)
+- [https://scikit-learn.org/stable/modules/classes.html](https://scikit-learn.org/stable/modules/classes.html)
+- [https://scikit-learn.org/stable/modules/naive_bayes.html](https://scikit-learn.org/stable/modules/naive_bayes.html)
