@@ -6,15 +6,15 @@ subtitle: Data Engineer
 
 ## Education
 -  Data Wrangling and Storytelling
-  -  Analysis, Feature Engineering, Visualisations
+    -  Analysis, Feature Engineering, Visualisations
 -  Statistical Tests and Experiments
-  -  Hypothesis Testing, Bayesian Statistics
+    -  Hypothesis Testing, Bayesian Statistics
 -  Linear Algebra
-  -  Vectors and Matrices, Clustering
+    -  Vectors and Matrices, Clustering
 -  Linear, Tree-based, Ensemble Models
-  - Regression, Classification, Cross-Validation
+    - Regression, Classification, Cross-Validation
 -  Applied Modeling
-  -  
+    - stuff 
 -  Productization and Cloud
 -  Natural Language Processing
 -  Neural Network Foundations
