@@ -6,19 +6,27 @@ subtitle: Data Engineer
 
 ## Education
 -  Data Wrangling and Storytelling
-    -  Analysis, Feature Engineering, Visualisations
+    - Analysis, Feature Engineering, Visualisations
 -  Statistical Tests and Experiments
-    -  Hypothesis Testing, Bayesian Statistics
+    - Hypothesis Testing, Bayesian Statistics
 -  Linear Algebra
-    -  Vectors and Matrices, Clustering
+    - Vectors and Matrices, Clustering
 -  Linear, Tree-based, Ensemble Models
     - Regression, Classification, Cross-Validation
 -  Applied Modeling
-    - stuff 
+    - Define ML Problems, Wrangle Datasets, Model Interpretation
+-  Software Engineering and Reproducable Reserarch
+    - OOP, Containers, Documentation, Testing
+-  SQL and Databases
+    - Relational and Document Oriented Databases
 -  Productization and Cloud
+    - APIs, Web Application Deployment
 -  Natural Language Processing
--  Neural Network Foundations
--  Major Neural Network Architectures
+    - Document Classification, Topic Modeling
+-  Neural Network Foundations and Architetures
+    - RNN, CNN, Image processing, Recommendation Systems
+-  Data Structures and Algorithms
+    - Linked Lists, Hashtables, Graphs, Sorting, UPER Development Framework
 
 ## Experience
 -  Python
