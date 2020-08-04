@@ -1,9 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to pay me $$$!
+subtitle: Data Engineer
 ---
 
-My name is Caleb Spraul. I am studying to become a data scientist at [Lambda School](https://lambdaschool.com/hire).
-
-What else do you need?
+-  Data Wrangling and Storytelling
+-  Applied Modeling
+-  Productization and Cloud
+-  Natural Language Processing
+-  Neural Network Foundations
+-  Major Neural Network Architectures
